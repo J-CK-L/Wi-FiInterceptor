@@ -17,7 +17,7 @@ apt-get update && apt-get dist-upgrade -y apt-get install git aircrack-ng bluez-
 
 
 2. Clone this repository and change into the directory:
-git clone https://github.com/yourusername/wifi-bluetooth-blocker cd wifi-bluetooth-blocker
+git clone https://github.com/J-CK-L/Wi-FiInterceptor cd wifi-bluetooth-blocker
 
 
 3. Install required Python libraries:
